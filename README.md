@@ -24,33 +24,6 @@ I build real tools and structure code the way it would be written in a productio
 
 ---
 
-## **Highlighted Project: Deduplicate**
-
-A fully modular, production-quality command-line utility for detecting and managing duplicate files at scale.
-
-**Repository:** [https://github.com/IbbyI/Deduplicate](https://github.com/IbbyI/Deduplicate)
-
-### **Key Technical Features**
-
-* Full, quick, and adaptive hashing strategies (SHA-256)
-* Recursive file system scanning with exclusion rules
-* Duplicate grouping & selection logic (timestamp-based)
-* Clean architecture: **core logic**, **UI layer**, and **CLI interface**
-* Verbosity system implemented with decorators
-* Rich TUI integration (progress bars, confirmations)
-* Move / delete actions with dry-run support
-* Extensive **unit test coverage** (filesystem ops, hashing, comparison, logging)
-* Designed for packaging (`pipx` / entry points)
-
-### **Engineering Depth**
-
-* Time & memory profiling for optimization
-* Stateless pure functions in core modules
-* Separation of concerns across packages
-* Strong emphasis on predictability and safety (e.g., dry-run mode, confirmation prompts)
-
----
-
 ## **Technical Skills**
 
 ### **Languages**
@@ -75,27 +48,6 @@ A fully modular, production-quality command-line utility for detecting and manag
 * Software testing, dependency injection
 * Hashing, performance profiling, memory analysis
 * Clean Architecture principles
-
----
-
-## **Current Focus**
-
-* Advanced API design with Django REST Framework
-* Packaging Python applications for distribution
-* Improving system-level tools and automation
-* Increasing test coverage and architectural clarity
-
----
-
-## **Professional Interests**
-
-* Backend engineering (Python/Django)
-* Systems scripting & automation
-* Developer tooling
-* Open-source contributions
-* Performance engineering
-
----
 
 ## **Contact**
 
