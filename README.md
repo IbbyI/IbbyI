@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin\&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-Professional-3776AB?logo=python\&logoColor=white)](#)
 [![Django](https://img.shields.io/badge/Django-Rest%20APIs-092E20?logo=django\&logoColor=white)](#)
-[![Testing]![Unit Tests](https://img.shields.io/badge/Unit%20Tests-✔︎-blue)](#)
+[![Unit Tests](https://img.shields.io/badge/Unit%20Tests-✔︎-blue)](#)
 [![CLI Tools](https://img.shields.io/badge/CLI%20Tools-Developer-grey?logo=terminal\&logoColor=white)](#)
 [![Open Source](https://img.shields.io/badge/Open--Source-Contributor-brightgreen?logo=github)](#)
 
