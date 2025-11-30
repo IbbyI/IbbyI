@@ -53,7 +53,7 @@ I build real tools and structure code the way it would be written in a productio
 
 I’m open to backend engineering roles, Python development positions, and opportunities involving systems tooling.
 
-📧 **Email**: 9123862@proton.me
+📧 **Email**: ibrahimissa00@proton.me
 
 ---
 <!--
